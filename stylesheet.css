@@ -4,19 +4,24 @@ body {
   color: white;
   margin: 0;
   font-family: "Montserrat", "Avenir";
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 h1 {
   text-align: center;
   background: steelblue;
   margin: 0;
   font-weight: normal;
-  line-height: 1.1;
   padding: 20px 0;
   font-size: 36px;
 }
-.colorToGuess {
-  font-size: 200%;
+h1 a {
+  text-decoration: none;
+}
+h1 a:link, h1 a:visited {
+  color: white;
+}
+h1 a:hover {
+  color: black;
 }
 .stripe {
   background: white;
@@ -28,9 +33,7 @@ h1 {
 .btn-group {
   height: 100%;
 }
-.btn,
-button,
-button:focus {
+.btn, button, button:focus {
   border: none;
   border-radius: 0;
   background: none;
@@ -61,29 +64,6 @@ button:hover {
   border-right: 5px solid transparent;
   border-top: 5px solid steelblue;
   border-bottom: 4px solid transparent;
-}
-.dropdown-menu > li > a {
-  color: steelblue;
-}
-.message {
-  display: inline-block;
-  width: 10%;
-}
-.container {
-  margin: 40px auto;
-  max-width: 600px;
-}
-.colorGuess {
-  width: 180px;
-  margin: 10px;
-  padding-bottom: 180px;
-  float: left;
-  background: #232323;
-  transition: background .6s;
-  -o-transition: background .6s;
-  -webkit-transition: background .6s;
-  -moz-transition: background .6s;
-  border-radius: 50%;
 }
 .dropbtn {
   font-size: 16px;
@@ -127,19 +107,11 @@ button:hover {
 .header a {
   color: steelblue;
 }
-h1 .fa-info-circle {
-  font-size: .6em;
-  vertical-align: middle;
+.container {
+  margin: 40px auto;
+  max-width: 600px;
 }
-.fa-info-circle .dropdown-content {
-  background-color: white;
-  z-index: 2;
-  padding: 20px;
-  border-radius: 10%;
-  min-width: 200px;
-}
-.fa-info-circle p {
-  font-family: "Montserrat", "Avenir";
-  text-transform: none;
-  color: steelblue;
+.citation {
+  font-weight: bold;
+  font-size: 1.2em;
 }
