@@ -4,7 +4,11 @@ body {
   color: white;
   margin: 0;
   font-family: "Montserrat", "Avenir";
+  line-height: 1.5;
   /* text-transform: uppercase; */
+}
+#head {
+  line-height: 1;
 }
 h1 {
   text-align: center;
@@ -14,23 +18,17 @@ h1 {
   padding: 20px 0;
   font-size: 36px;
 }
-h1 a {
-  text-decoration: none;
-}
-h1 a:link,
-h1 a:visited {
-  color: white;
-}
-h1 a:hover {
-  color: black;
-}
+h1 a,
 h2 a {
   text-decoration: none;
 }
-h2 a:link, 
+h1 a:link,
+h1 a:visited,
+h2 a:link,
 h2 a:visited {
   color: white;
 }
+h1 a:hover,
 h2 a:hover {
   color: black;
 }
@@ -119,8 +117,19 @@ button:hover {
   color: steelblue;
 }
 .container {
-  margin: 40px auto;
+  margin: 0 auto;
+  padding-top: 40px;
   max-width: 600px;
+}
+.container a {
+  /* text-decoration: none; */
+}
+.container a:link,
+.container a:visited {
+  color: white;
+}
+.container a:hover {
+  color: steelblue;
 }
 .citation {
   font-weight: bold;
