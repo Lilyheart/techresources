@@ -1,17 +1,17 @@
-# Guess-the-RGB
+# Women in Tech Resources
 
-[![Launch Repo Now](https://img.shields.io/badge/gh--pages-Launch%20Now!-ff69b4.svg?maxAge=2592000)](https://lilyheart.github.io/guess-the-rgb/)
+[![Launch Repo Now](https://img.shields.io/badge/gh--pages-Launch%20Now!-ff69b4.svg?maxAge=2592000)](https://lilyheart.github.io/techresources/)
 
-Guess-the-RGB is a project that was completed as a part of [Colt Steele's bootcamp](https://www.udemy.com/the-web-developer-bootcamp/).  My version of Guess-the-RGB has a several tweaks beyond what was coded in class.
+Tech Resources is a project that was completed as a part of Women in Gender studies project.
 
-[![Gitter](https://img.shields.io/gitter/room/Lilyheart/LilyPrograms.js.svg?maxAge=2592000)](https://gitter.im/Lilyheart/LilyPrograms) 
-[![GitHub issues](https://img.shields.io/github/issues/Lilyheart/guess-the-rgb.svg?maxAge=2592000)](https://github.com/Lilyheart/guess-the-rgb/issues) 
-[![license](https://img.shields.io/github/license/Lilyheart/guess-the-rgb.svg?maxAge=2592000)](https://github.com/Lilyheart/guess-the-rgb/blob/gh-pages/LICENSE)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/13333a2d82db4f20b01a883e560c94fd)](https://www.codacy.com/app/lilyheart/guess-the-rgb?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Lilyheart/guess-the-rgb&amp;utm_campaign=Badge_Grade)
+[![Gitter](https://img.shields.io/gitter/room/Lilyheart/LilyPrograms.js.svg?maxAge=2592000)](https://gitter.im/Lilyheart/LilyPrograms)
+[![GitHub issues](https://img.shields.io/github/issues/Lilyheart/techresources.svg)](https://github.com/Lilyheart/techresources/issues)
+[![license](https://img.shields.io/github/license/Lilyheart/techresources.svg)](https://github.com/Lilyheart/techresources/blob/gh-pages/LICENSE)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/13333a2d82db4f20b01a883e560c94fd)](https://www.codacy.com/app/lilyheart/techresources?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Lilyheart/techresources&amp;utm_campaign=Badge_Grade)
 
 ## Deployed
 
-The game is deployed [here](https://lilyheart.github.io/guess-the-rgb/) on GitHub pages.
+The website is deployed [here](https://lilyheart.github.io/techresources/) on GitHub pages.
 
 ## Contributing :revolving_hearts:
 
