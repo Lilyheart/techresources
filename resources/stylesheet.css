@@ -138,6 +138,29 @@ h2 {
   padding: 20px 10px;
 	background-color: steelblue;
 }
+a.linkheader {
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+
+  padding: 20px 10px;
+	background-color: steelblue;
+  text-decoration: none;
+}
+a:link.linkheader,
+a:visited.linkheader {
+  color: white;
+}
+a:hover.linkheader {
+  color: black;
+}
+.indent {
+  padding-left: 40px;
+}
 .citation {
   font-weight: bold;
   font-size: 1.2em;
