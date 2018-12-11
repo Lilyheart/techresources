@@ -47,7 +47,7 @@ h2 a:hover {
   border-radius: 0;
   background: none;
   padding: 0 6px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   height: 100%;
   font-weight: 700;
   color: steelblue;
