@@ -7,7 +7,7 @@ Tech Resources is a project that was completed as a part of Women in Gender stud
 [![Gitter](https://img.shields.io/gitter/room/Lilyheart/LilyPrograms.js.svg?maxAge=2592000)](https://gitter.im/Lilyheart/LilyPrograms)
 [![GitHub issues](https://img.shields.io/github/issues/Lilyheart/techresources.svg)](https://github.com/Lilyheart/techresources/issues)
 [![license](https://img.shields.io/github/license/Lilyheart/techresources.svg)](https://github.com/Lilyheart/techresources/blob/gh-pages/LICENSE)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/13333a2d82db4f20b01a883e560c94fd)](https://www.codacy.com/app/lilyheart/techresources?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Lilyheart/techresources&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c3f859d87f2a4f6c8c223aabf65e37c7)](https://www.codacy.com/app/lilyheart/techresources?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Lilyheart/techresources&amp;utm_campaign=Badge_Grade)
 
 ## Deployed
 
